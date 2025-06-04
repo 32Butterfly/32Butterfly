@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">✨ Currently working on ByteBuilt – a full-stack e-commerce platform selling prebuilt PCs and laptops. The project is private, but the code is available upon request!<br>🎯 Goals: Secure a full-stack developer job and gain hands-on experience in real-world software development environments.</h3>
+<h3 align="left">✨ Currently working on ByteBuilt – a full-stack e-commerce platform selling prebuilt PCs and laptops. Goals: Secure a tech related job and gain hands-on experience in real-world software development environments.</h3>
 
 ###
 
